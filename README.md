@@ -1,4 +1,4 @@
-# Sources-of-Strength-Dataverse-Codebook
+# Sources-of-Strength-Implementation-Codebook
 To make SoS data public to all people who might be interested, we are planning to transfer the data to UNC Dataverse which requires a codebook that briefs the overview of the dataset.
 
 
