@@ -7,5 +7,5 @@ Data are from a cluster randomized trial of the Sources of Strength program in 2
 
 
 Dataset Overview 
-The Implementation dataset contains quantitative information regarding the implementation of these three phases in the 11 intervention schools across four data collection points (Fall 2017 – Spring 2019). For additional information about the implementation procedures see Espelage and colleagues (2023): https://doi.org/10.1080/2372966X.2022.2164460. 
+The School Climate Survey dataset contains responses from 2676 teachers, administrators, and staff in 20 schools across four data collection points (Fall 2017 – Spring 2019). This codebook provides a list and description of the original variables in the dataset.
 
